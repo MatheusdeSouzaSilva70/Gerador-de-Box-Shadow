@@ -1,14 +1,17 @@
 # Gerador de Box Shadow
+
 ##Visualização do projeto: 
 <br/>
 <br/>
-![README.md]()
+![README.md](https://github.com/MatheusdeSouzaSilva70/Gerador-de-Box-Shadow/blob/main/img/img%20do%20projeto(1).png)
 
 ### 
-Feito com: HTML,CSS,JAVASCRIT.
+Projeto da Comunidade Hora de Codar, onde vamos criar um gerador de box shadow, que é uma regra do CSS com vários parâmetros.
 
 #### Recursos
 - Responsivo 100%
+- Feito com: HTML,CSS,JAVASCRIT.
+
 
 ##### Links:
 - Projeto:https://matheusdesouzasilva70.github.io/Gerador-de-Box-Shadow/
