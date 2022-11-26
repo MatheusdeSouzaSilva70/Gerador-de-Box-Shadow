@@ -6,7 +6,7 @@
 ![README.md](https://github.com/MatheusdeSouzaSilva70/Gerador-de-Box-Shadow/blob/main/img/img%20do%20projeto(1).png)
 
 ### 
-Projeto da Comunidade Hora de Codar, onde vamos criar um gerador de box shadow, que é uma regra do CSS com vários parâmetros.
+Projeto da Comunidade Hora de Codar, onde eu aprendir criar um gerador de box shadow, que é uma regra do CSS com vários parâmetros.
 
 #### Recursos
 - Responsivo 100%
